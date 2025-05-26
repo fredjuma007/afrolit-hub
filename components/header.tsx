@@ -15,7 +15,9 @@ export default function Header() {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <BookOpen className="h-7 w-7 lg:h-8 lg:w-8 text-orange-600" />
-            <span className="text-xl lg:text-2xl font-bold text-orange-900">AfriStories</span>
+            <Link href="/" className="text-xl lg:text-2xl font-bold text-orange-900 hover:text-orange-600 transition-colors">
+              AfrolitHub
+            </Link>
           </div>
 
           {/* Desktop Navigation */}

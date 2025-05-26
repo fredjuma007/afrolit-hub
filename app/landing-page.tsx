@@ -77,7 +77,7 @@ export default function Component() {
             <div className="relative mt-8 lg:mt-0">
               <div className="relative z-10">
                 <Image
-                  src="/placeholder.svg?height=600&width=500"
+                  src="/african_author_AI.png"
                   alt="African author writing"
                   width={500}
                   height={600}
@@ -150,7 +150,7 @@ export default function Component() {
           <div className="grid lg:grid-cols-2 gap-8 lg:gap-12 items-center">
             <div className="order-2 lg:order-1">
               <Image
-                src="/placeholder.svg?height=400&width=500"
+                src="/library_AI.png"
                 alt="Published author earning revenue"
                 width={500}
                 height={400}
@@ -259,7 +259,7 @@ export default function Component() {
               <CardContent className="p-6">
                 <div className="flex items-center space-x-4 mb-4">
                   <Image
-                    src="/placeholder.svg?height=60&width=60"
+                    src="/testimony.png"
                     alt="Author"
                     width={60}
                     height={60}
@@ -285,7 +285,7 @@ export default function Component() {
               <CardContent className="p-6">
                 <div className="flex items-center space-x-4 mb-4">
                   <Image
-                    src="/placeholder.svg?height=60&width=60"
+                    src="/testimony.png"
                     alt="Author"
                     width={60}
                     height={60}
@@ -310,7 +310,7 @@ export default function Component() {
               <CardContent className="p-6">
                 <div className="flex items-center space-x-4 mb-4">
                   <Image
-                    src="/placeholder.svg?height=60&width=60"
+                    src="/testimony.png"
                     alt="Author"
                     width={60}
                     height={60}
@@ -365,7 +365,7 @@ export default function Component() {
             </div>
             <div className="relative">
               <Image
-                src="/placeholder.svg?height=500&width=600"
+                src="/AI_reader.png"
                 alt="African storytelling"
                 width={600}
                 height={500}

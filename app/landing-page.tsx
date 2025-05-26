@@ -271,7 +271,7 @@ export default function Component() {
                   </div>
                 </div>
                 <p className="text-orange-700 italic text-sm lg:text-base">
-                  "AfriStories gave me the platform I needed to reach readers worldwide. Within six months, I had a
+                  "AfrolitHub gave me the platform I needed to reach readers worldwide. Within six months, I had a
                   publishing deal!"
                 </p>
                 <div className="flex text-orange-400 mt-4">
@@ -485,7 +485,7 @@ export default function Component() {
             <div className="space-y-4 sm:col-span-2 lg:col-span-1">
               <div className="flex items-center space-x-2">
                 <BookOpen className="h-8 w-8 text-orange-400" />
-                <span className="text-2xl font-bold">AfriStories</span>
+                <span className="text-2xl font-bold">AfrolitHub</span>
               </div>
               <p className="text-orange-200 text-sm lg:text-base">
                 Empowering African voices and connecting stories with the world.
@@ -565,7 +565,7 @@ export default function Component() {
             </div>
           </div>
           <div className="border-t border-orange-800 mt-8 pt-8 flex flex-col lg:flex-row justify-between items-center space-y-4 lg:space-y-0">
-            <p className="text-orange-200 text-sm lg:text-base">© 2024 AfriStories. All rights reserved.</p>
+            <p className="text-orange-200 text-sm lg:text-base">© 2024 AfrolitHub. All rights reserved.</p>
             <div className="flex flex-col sm:flex-row space-y-2 sm:space-y-0 sm:space-x-6">
               <Link href="#" className="text-orange-200 hover:text-white transition-colors text-sm lg:text-base">
                 Privacy Policy
